@@ -1,0 +1,10 @@
+{
+   "compilerOptions": {
+      "target": "es6",
+      "baseUrl": ".src",
+      "paths": {
+         "ui/*":["./src/react-ui/*"],
+         "react-ui/*":["./src/react-ui/*"]
+      }
+   }
+}
